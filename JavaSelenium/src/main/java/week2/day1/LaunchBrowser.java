@@ -1,4 +1,4 @@
-package week2day1;
+package week2.day1;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;

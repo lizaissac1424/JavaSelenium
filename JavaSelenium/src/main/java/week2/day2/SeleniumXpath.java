@@ -1,4 +1,4 @@
-package week2day2;
+package week2.day2;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.chrome.ChromeDriver;
